@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512734512171",
+    "project_id": "nurseryapplication-1c016",
+    "storage_bucket": "nurseryapplication-1c016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512734512171:android:d73960c335cbef5ebd166e",
+        "android_client_info": {
+          "package_name": "com.ranasalem.nurseryapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyaGXFmddBAnGPIYYVq96NjimF-uKQoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
