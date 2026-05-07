@@ -140,3 +140,17 @@ app.*.symbols
 
 # Documentation 
 documents/
+node_modules/
+pubspec.lock
+*.g.dart
+*.DS_Store
+Thumbs.db
+*.session
+*.session-journal
+*.env
+.env*
+*.pem
+*.key
+917*@s.whatsapp.net*
+918*@s.whatsapp.net*
+auth_info*
